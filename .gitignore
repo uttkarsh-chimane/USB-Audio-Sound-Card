@@ -1,0 +1,21 @@
+# KiCad cache
+fp-info-cache
+
+# Backup and autosave files
+*.bak
+*_autosave-*
+*.tmp
+*.lck
+
+# Generated outputs
+plots/
+fabrication/
+exports/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
