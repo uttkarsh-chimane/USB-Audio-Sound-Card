@@ -63,6 +63,7 @@ The spreadsheet contains:
 
 ## ⚒️ Hardware Architecture
 
+```
 USB Host
     │
     ▼
@@ -76,7 +77,7 @@ RC Output Filter
     │
     ▼
 3.5 mm Stereo Audio Jack
-
+```
 ---
 
 ## 🧠 Schematic Highlights
