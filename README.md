@@ -18,8 +18,16 @@ The board is powered directly from the USB port and outputs analog audio through
 
 ## 📷 Project Gallery
 
+🧩 **3D PCB Render**
+
 ![3D PCB](docs/3D_render.png)
+
+🔌 **PCB Layout**
+
 ![PCB Layout](docs/PCB_layout.png)
+
+⚙️ **Schematic**
+
 ![Schematic](docs/schematic.png)
 
 ---
