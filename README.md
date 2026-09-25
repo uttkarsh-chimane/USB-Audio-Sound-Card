@@ -1,15 +1,6 @@
 <h1 align="center">⚡ PCM2706 USB Audio Sound Card</h1>
 
 <p align="center">
-  <a href="⚙️-What-I-Built">What I Built</a> •
-  <a href="#-features">Features</a> •
-  <a href="#%EF%B8%8F-hardware-architecture">Hardware Architecture</a> •
-  <a href="🧠-schematic-highlights">Schematic Highlights</a> •
-  <a href="#-pcb-design-insights">PCB Insights</a> •
-  <a href="#%EF%B8%8F-design-software">Design Software</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/INTERFACE-USB%202.0-007EC6?style=flat&logo=usb&logoColor=white" alt="USB Interface" />
   <img src="https://img.shields.io/badge/CODEC-PCM2706C-FE7D37?style=flat" alt="PCM2706C Codec" />
   <img src="https://img.shields.io/badge/OUTPUT-STEREO%203.5mm-4C1?style=flat" alt="Stereo Output" />
